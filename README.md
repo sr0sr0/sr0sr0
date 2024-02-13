@@ -19,7 +19,6 @@
 |Tier #14 = Herramientas ofensivas de alto nivel. (Sin codigo abierto y con clave)                                    |
 |Tier #15 = Herramientas defensivas de alto nivel. (Sin codigo abierto y con clave)                                   |
 |Tier #16 = Herramientas exclusivas de SR0 (Sin codigo abierto, con clave y con trampas)                              |
-|---------------------------------------------------------------------------------------------------------------------|
 |                                                                                                                     |
 
 # Derechos de autor
@@ -32,8 +31,6 @@ autor.
 # Guía del repo
 
 El repo funciona con un estilo algo parecido al comando tree, ejemplo:
-
-.
 ├── Tier #0
 │   └── SilentBetas-0
 │       ├── A [BETA].py
