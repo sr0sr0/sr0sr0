@@ -31,33 +31,7 @@ autor.
 # Guía del repo
 
 El repo funciona con un estilo algo parecido al comando tree, ejemplo:
-├── Tier #0
-│   └── SilentBetas-0
-│       ├── A [BETA].py
-│       ├── A [BETA].sh
-│       ├── ASCII [BETA].py
-│       ├── CIF 2 [BETA].py
-│       ├── COL-0  [BETA].py
-│       ├── CUB [BETA].py
-│       ├── G5DCF [BETA].py
-│       ├── L-U-A [BETA].lua
-│       ├── NETFL-0 [BETA].py
-│       └── WSDEB [BETA].py
-├── Tier #1
-│   ├── albertder.dll
-│   │   ├── sr0Indice.py
-│   │   └── wbh.py
-│   ├── n3riel.dll
-│   ├── ph0ne.dll
-│   └── r4f4.dll
-├── Tier #10
-├── Tier #11
-├── Tier #12
-├── Tier #13
-├── Tier #14
-├── Tier #15
-├── Tier #16
-│   └── albertder.dll
-│       ├── CreDox-0.py
-│       ├── Mitm-0.py
+
+
 ...
+![Captura de pantalla_2024-02-12_22-30-29](https://github.com/sr0sr0/sr0sr0/assets/159860117/c3f2069b-b202-49d4-b176-3acee966903c)
