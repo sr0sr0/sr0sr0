@@ -1,33 +1,5 @@
-
-Toda herramienta públicada en este repositorio 
-es de código abierto, solo pedimos que        
-se deje un pequeño comentario en caso de que  
-edites/en una herramienta de las que se       
-publiquen, para entender este repositorio acá
-dejamos una guía de como funcionan los Tier's. 
-
-
-                                                    ,▄████▄,                                                         
-                                                ╓▄████████████▄,                                                     
-                                           ╓▄███▀▄▄▄,,  `▀███████▄,                                                 
-                                       ╓▄██████ ╘██████▓#  `▀████████▄,                                             
-                                      *█████████▄  .▄▄▄▄▄▄▄▄▄ └██████████*                                           
-                                    ╒▄µ  └▀███████▄  ▀▀██████▌ ██████▀`  ▄▄                                          
-                                    ▐████▄µ  └▀██████▄▄  `"▀"▄███▀`  ▄▄████                                          
-                                    ▐████████▄▄  └▀██████████▀`  ▄▄████████∩                                         
-                                    ▐█████▀▀▀▀███▄,  └▀█▀▀`  ▄▄████████████∩                                         
-                                    ▐████U ▓██▄"▀▀███▄µ  ▄▄██████▀└,  ▀████U                                         
-                                    ▐█████ └████  ████▌  ████▀" ▄███⌡ ▄████∩                                         
-                                    ▐██████▄ ╙██▌ ████▌  █████  ███▀,██████∩                                         
-                                    ▐███U▀███▄ ▀██████▌  █████  ▀" *███████                                          
-                                    ▐███⌡ ▀████  ██████  █████H ▓█▄  ▀█████∩                                         
-                                     ▀▀██▄▄└▀███  █████  █████H ████µ▄▄██▀▀                                          
-                                        `▀▀██▄,,,▄████▌  █████H `▄███▀▀                                              
-                                            `▀▀███████▌  ████▄▄██▀▀                                                  
-                                                `▀▀███▌  ████▀▀                                                      
-                                                    `▀▀  ▀▀                                                          
 |---------------------------------------------------------------------------------------------------------------------|
-|Tier #0 = Herramientas no oficiales y de codigo abierto (con algún bug o simplemente descontinuadas).                | 
+|Tier #0 = Herramientas no oficiales y de codigo abierto (con algún bug o simplemente descontinuadas).                |
 |Tier #1 = Herramientas oficiales de codigo abierto con fines divertidos (nivel por debajo de 0). #Color 1            |
 |Tier #2 = Herramientas de analisis de datos de bajo nivel. (Codigo abierto)                                          |
 |Tier #3 = Herramientas ofensivas de bajo nivel. (Codigo abierto)                                                     |
