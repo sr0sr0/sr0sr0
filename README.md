@@ -1,4 +1,3 @@
-
 |                                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------|
 |Tier #0 = Herramientas no oficiales y de codigo abierto (con algún bug o simplemente descontinuadas). #Color 0       | 
