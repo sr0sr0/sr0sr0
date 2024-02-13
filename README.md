@@ -31,7 +31,4 @@ autor.
 # Guía del repo
 
 El repo funciona con un estilo algo parecido al comando tree, ejemplo:
-
-
-...
 ![Captura de pantalla_2024-02-12_22-30-29](https://github.com/sr0sr0/sr0sr0/assets/159860117/c3f2069b-b202-49d4-b176-3acee966903c)
