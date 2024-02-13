@@ -17,6 +17,8 @@
 |Tier #15 = Herramientas defensivas de alto nivel. (Sin codigo abierto y con clave)                                   |
 |Tier #16 = Herramientas exclusivas de SR0 (Sin codigo abierto, con clave y con trampas)                              |
 |---------------------------------------------------------------------------------------------------------------------|
+
+|---------------------------------------------------------------------------------------------------------------------|
 |Toda esta información es pública y cualquiera está en la libertad de editarla y usarla con sus propios fines,        |
 |toda herramienta que tenga un (SR0 Edit) es que la herramienta fue editada por SR0 (sin avisar al autor o            | 
 |tal vez sí),                                                                                                         |
