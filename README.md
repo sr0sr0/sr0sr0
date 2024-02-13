@@ -1,5 +1,5 @@
 
-|                                                    `▀▀  ▀▀                                                          |
+
 |---------------------------------------------------------------------------------------------------------------------|
 |Tier #0 = Herramientas no oficiales y de codigo abierto (con algún bug o simplemente descontinuadas). #Color 0       | 
 |Tier #1 = Herramientas oficiales de codigo abierto con fines divertidos (nivel por debajo de 0). #Color 1            |
