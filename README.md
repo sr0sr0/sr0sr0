@@ -1,11 +1,11 @@
-##################################################
-# Toda herramienta públicada en este repositorio #
-# es de código abierto, solo pedimos que         #
-# se deje un pequeño comentario en caso de que   #
-# edites/en una herramienta de las que se        #
-# publiquen, para entender este repositorio acá  #
-# dejamos una guía de como funcionan los Tier's. #
-##################################################
+
+Toda herramienta públicada en este repositorio 
+es de código abierto, solo pedimos que        
+se deje un pequeño comentario en caso de que  
+edites/en una herramienta de las que se       
+publiquen, para entender este repositorio acá
+dejamos una guía de como funcionan los Tier's. 
+
 |---------------------------------------------------------------------------------------------------------------------|
 |                                                    ,▄████▄,                                                         |
 |                                                ╓▄████████████▄,                                                     |
