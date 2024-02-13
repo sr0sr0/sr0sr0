@@ -24,8 +24,9 @@
 # Derechos de autor
 
 Toda esta información es pública y cualquiera está en la libertad de editarla y usarla con sus propios fines,        
-toda herramienta que tenga un (SR0 Edit) es que la herramienta fue editada por SR0 (sin avisar al autor),            
-pero no por ello nos robamos el credito, el codigo seguirá siendo abierto y dejaremos credito a su respectivo        
+toda herramienta que tenga un (SR0 Edit) es que la herramienta fue editada por SR0 (sin avisar al autor o
+tal vez sí).
+Pero no por ello nos robamos el credito, el codigo seguirá siendo abierto y dejaremos credito a su respectivo        
 autor.
 
 # Guía del repo
