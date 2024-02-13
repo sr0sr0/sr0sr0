@@ -26,7 +26,7 @@ dejamos una guía de como funcionan los Tier's.
                                             `▀▀███████▌  ████▄▄██▀▀                                                  
                                                 `▀▀███▌  ████▀▀                                                      
                                                     `▀▀  ▀▀                                                          
-
+|---------------------------------------------------------------------------------------------------------------------|
 |Tier #0 = Herramientas no oficiales y de codigo abierto (con algún bug o simplemente descontinuadas).                | 
 |Tier #1 = Herramientas oficiales de codigo abierto con fines divertidos (nivel por debajo de 0). #Color 1            |
 |Tier #2 = Herramientas de analisis de datos de bajo nivel. (Codigo abierto)                                          |
