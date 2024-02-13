@@ -18,9 +18,9 @@
 |Tier #14 = Herramientas ofensivas de alto nivel. (Sin codigo abierto y con clave) #Color 40                          |
 |Tier #15 = Herramientas defensivas de alto nivel. (Sin codigo abierto y con clave) #Color C0                         |
 |Tier #16 = Herramientas exclusivas de SR0 (Sin codigo abierto, con clave y con trampas) #Color 8                     |
-| #--------------------------------------------# |
+| #------------------------------------------------------------------------# |
 |Toda esta información es pública y cualquiera está en la libertad de editarla y usarla con sus propios fines,        |
 |toda herramienta que tenga un (SR0 Edit) es que la herramienta fue editada por SR0 (sin avisar al autor),            |
 |pero no por ello nos robamos el credito, el codigo seguirá siendo abierto y dejaremos credito a su respectivo        |
 |autor.                                                                                                               |
-| #--------------------------------------------# |
+| #------------------------------------------------------------------------# |
